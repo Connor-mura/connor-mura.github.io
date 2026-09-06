@@ -1,1 +1,1 @@
-# connor-mura.github.io
+# Connor Mura - SNHU CS-499 Computer Science Capstone
