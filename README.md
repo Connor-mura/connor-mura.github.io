@@ -33,7 +33,7 @@ In order to fully capture the structure of my redesign, let’s look at how the 
 
 The process of enhancing this CRUD utility was a challenging yet rewarding one. I hadn’t yet had the opportunity to work in multiple languages at once – with many courses focusing solely on one programming language. The process of translating functions from one language and design to an entirely different one forced me to become keenly aware of the strengths and limitations of each. This enhancement also forced me to do research and learn more about C++ and the many methods available to developers - which is a skill that only becomes more import as I drift away from coursework and towards real, production-level programming. For me, being able to design something truly reusable was also very rewarding – as this is now a program I can use in my own projects outside of my studies, something that is also important at this stage of my education and development. I believe that programming is a skill itself, beyond the syntax and rules of individual languages, and this artifact enhancement was an excellent opportunity to grow and showcase this skill.  
 
-* [Browse Category 1 Source Files Code Repository](./Category_1_Software_Design/)
+* [Browse Category 1 Source Files Code Repository](https://github.com/Connor-mura/connor-mura.github.io/tree/main/Category_1_Software_Design)
  
 ---
 
@@ -54,7 +54,7 @@ While these additions brought the game closer to production level, it is importa
 
 I found this enhancement to be both challenging and rewarding. I found the process very rewarding for the same reason that I originally chose this artifact for enhancement; going back to one of my very first projects and using my current skills to improve it really showed the journey it’s been throughout my time here at SNHU. The first problem I ran into was sourcing the project – as I no longer have access to the computer I used when I completed this project originally. I needed to reach out to SNHU advising and have them send me the files. This also made debugging and testing my new additions difficult – as I did not have any of my planning documentation for the game, and to test my additions I needed to win the game. Needless to say, I lost many times before I was able to reliably test the program. I am very happy with the outcome for this artifact. This was a pivot from my module one plan, as based on feedback – I realized I needed to switch my planned category two artifact to category one and therefore retrofit my planned enhancement for this artifact for category two – but I am satisfied with the outcome for both artifacts. 
 
-* [Browse Category 2 Source Files Code Repository](./Category_2_Algorithms/)
+* [Browse Category 2 Source Files Code Repository](https://github.com/Connor-mura/connor-mura.github.io/tree/main/Category_2_Algorithms)
 
 ---
 
@@ -69,6 +69,6 @@ In order to test these additions, I ran verification checks across application e
 
 I found this enhancement to be a bit easier than my previous two enhancements. One of the difficulties with my previous enhancements was the sheer amount of time between now and the original artifact’s inception. I needed to relearn the programs, relearn the individual working pieces. This artifact was from one of my more recent courses, and all of the program logic was still relatively fresh in my mind. While the process of reviewing my artifact, developing a plan for enhancement, and executing said plan was just as difficult as it has been with the other, eliminating that mental hurtle was huge. The additional tools at my disposal for testing, like Postman and MongoDB Compass, also made the entire process much easier and much more streamlined.
 
-* [Browse Category 3 Source Files Code Repository](./Category_3_Databases/)
+* [Browse Category 3 Source Files Code Repository](https://github.com/Connor-mura/connor-mura.github.io/tree/main/Category_3_Databases)
 
 ---
