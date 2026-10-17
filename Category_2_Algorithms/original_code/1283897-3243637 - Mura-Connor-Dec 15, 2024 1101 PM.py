@@ -1,4 +1,4 @@
-#My name is Connor Mura - Welcome to my Game
+#My name is Connor Mura - Welcome to my Python Game
 import sys
 
 #Introduces player to the game
