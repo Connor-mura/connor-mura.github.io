@@ -28,8 +28,8 @@ In order to fully capture the structure of my redesign, let’s look at how the 
 | :--- | :--- | :--- | :--- | :--- |
 | 1 |	Create |	Adding 3 animal records to the database. |	Database size increases to 3. |	Pass |
 | 3 |	Read |	Return all records where breed equals pug. |	Returns animal record A0002 for Lilly the pug. |	Pass |
-| 4 |	Update |	Find records where name equals Frank, and change name to equal Air Bud. | Return number of modified records. |	Returns 1 modified record. |	Pass |
-| 5	| Delete |	Find and delete record whose ID is A0003. | Return database size. |	Database size decreases to 2. |	Pass |
+| 4 |	Update |	Find records where name equals Frank, and change name to equal Air Bud. Return number of modified records. |	Returns 1 modified record. |	Pass |
+| 5	| Delete |	Find and delete record whose ID is A0003. Return database size. |	Database size decreases to 2. |	Pass |
 
 The process of enhancing this CRUD utility was a challenging yet rewarding one. I hadn’t yet had the opportunity to work in multiple languages at once – with many courses focusing solely on one programming language. The process of translating functions from one language and design to an entirely different one forced me to become keenly aware of the strengths and limitations of each. This enhancement also forced me to do research and learn more about C++ and the many methods available to developers - which is a skill that only becomes more import as I drift away from coursework and towards real, production-level programming. For me, being able to design something truly reusable was also very rewarding – as this is now a program I can use in my own projects outside of my studies, something that is also important at this stage of my education and development. I believe that programming is a skill itself, beyond the syntax and rules of individual languages, and this artifact enhancement was an excellent opportunity to grow and showcase this skill.   
  
